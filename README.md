@@ -9,7 +9,7 @@
 *The numbers the remain are Prime*
 
 
-## All the power of the primes, at the tip of your mouse
+## Run
 
 Run: ./Sieve [number] [output_file]
 
@@ -66,4 +66,4 @@ Sieve of Atkins to look into for more uwu
 
 
 
-*Disclaimer: This is actually Euler's Sieve, not Erathostene's >.> hehe gottem*
+  *Disclaimer: This is actually Euler's Sieve, not Erathostene's >.> hehe gottem*
