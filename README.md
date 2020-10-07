@@ -1,15 +1,20 @@
 # Sieve_of_Eratosthenes
 
 *Sift the Two's and Sift the Three's*
+
 *The Sieve of Eratosthenes.*
+
 *When the multiples sublime,*
+
 *The numbers the remain are Prime*
+
 
 ## All the power of the primes, at the tip of your mouse
 
 Run: ./Sieve [number] [output_file]
 
 **number** as the max value of the primes generated
+
 **output** as the output filename
 
 ----
@@ -23,8 +28,11 @@ Format type :
 **Where:**
 
 - *min* Minimum prime value
+
 - *max* Maximum prime value
+
 - *amount* Maximum amount of primes generated
+
 - *output* output filename (If the filename is a number, write to corresponding file descriptor)
 
 
