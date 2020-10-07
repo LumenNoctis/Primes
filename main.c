@@ -56,7 +56,9 @@ int main(int argc, char **argv)
 	while (i < input)
 	{
 		if (numbers[i] != 1)
+		{
 			fprintf(file,"%d ", i);
+		}
 		i++;
 	}
 }

@@ -10,7 +10,7 @@
 Run: ./Sieve [number] [output_file]
 
 **number** as the max value of the primes generated
-**output** as the output filename (If the filename is a number, write to corresponding file descriptor)
+**output** as the output filename
 
 ----
 
